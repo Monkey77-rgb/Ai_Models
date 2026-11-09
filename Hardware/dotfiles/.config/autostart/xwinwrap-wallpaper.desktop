@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Xwinwrap Wallpaper
+Exec=sh -c "$HOME/.config/autostart/start-wallpaper.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

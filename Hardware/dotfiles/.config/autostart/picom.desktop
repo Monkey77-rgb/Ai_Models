@@ -1,0 +1,8 @@
+  [Desktop Entry]
+  Type=Application
+  Name=Picom
+  Exec=sh -c "picom --config $HOME/.config/picom/picom.conf"
+  Hidden=false
+  NoDisplay=false
+  X-GNOME-Autostart-enabled=true
+  EOF
